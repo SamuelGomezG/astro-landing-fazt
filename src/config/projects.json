@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Project 1",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia id fuga rerum asperiores molestiae voluptatem dicta optio minus atque cum qui excepturi exercitationem eveniet quo impedit harum nostrum voluptate, eius magni. Explicabo optio commodi nam mollitia reiciendis iusto laudantium amet voluptatibus debitis provident! At molestiae consequuntur maiores, corrupti laborum repudiandae.",
+    "image": "images/fingerprint.svg"
+  },
+  {
+    "title": "Project 2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia id fuga rerum asperiores molestiae voluptatem dicta optio minus atque cum qui excepturi exercitationem eveniet quo impedit harum nostrum voluptate, eius magni. Explicabo optio commodi nam mollitia reiciendis iusto laudantium amet voluptatibus debitis provident! At molestiae consequuntur maiores, corrupti laborum repudiandae.",
+    "image": "images/fingerprint.svg"
+  },
+  {
+    "title": "Project 3",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia id fuga rerum asperiores molestiae voluptatem dicta optio minus atque cum qui excepturi exercitationem eveniet quo impedit harum nostrum voluptate, eius magni. Explicabo optio commodi nam mollitia reiciendis iusto laudantium amet voluptatibus debitis provident! At molestiae consequuntur maiores, corrupti laborum repudiandae.",
+    "image": "images/fingerprint.svg"
+  }
+]
